@@ -1,2 +1,0 @@
-# gifos
-proyecto gifos acamica
